@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:039202_0000_1013F852181D7640"/>
-            <pb facs="tcp:039202_0001_1013F85473243960" rendition="simple:additions"/>
+            <pb facs="unknown:039202_0000_1013F852181D7640"/>
+            <pb facs="unknown:039202_0001_1013F85473243960"
+                rendition="simple:additions"/>
             <head>To the Conſtables and Select Men of <gap reason="blank" extent="1 word">
                   <desc> _____ </desc>
                </gap> According to an <hi>Order</hi> of the <hi>General Court</hi> held at <hi>Boſton,</hi>
